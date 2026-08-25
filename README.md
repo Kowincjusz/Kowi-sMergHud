@@ -1,2 +1,2 @@
 # Kowi'sMergHud
-(https://imgur.com/a/OlnGt6e)
+[](https://imgur.com/a/OlnGt6e)
