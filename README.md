@@ -1,2 +1,2 @@
 # Kowi'sMergHud
-![logo](https://imgur.com/gallery/main-logo-m7lQLvG#8gz2FxA)
+![logo](https://github.com/Kowincjusz/Photos/blob/ffe33365d2e3a46bcda0a0cde42eb1f11dd50c4d/main.png)
